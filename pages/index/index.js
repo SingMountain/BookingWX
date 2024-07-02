@@ -8,7 +8,7 @@ Page({
       nickName: '',
     },
     display:false,
-    url: `http://10.16.45.229:10086?`,//https://wx.bookspaces.cn?|||http://10.16.45.229:10086?
+    url: `http://10.16.45.229:10086?`,//https://wx.bookspaces.cn?|||http://10.16.45.229:10086?前端项目地址
     hasUserInfo: false,
     canIUseGetUserProfile: wx.canIUse('getUserProfile'),
     canIUseNicknameComp: wx.canIUse('input.type.nickname'),
